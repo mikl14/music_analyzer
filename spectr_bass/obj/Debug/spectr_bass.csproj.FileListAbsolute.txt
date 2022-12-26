@@ -1,0 +1,57 @@
+C:\Users\proro\source\repos\spectr_bass\spectr_bass\bin\Debug\x86\bassasio.dll
+C:\Users\proro\source\repos\spectr_bass\spectr_bass\bin\Debug\x64\bassasio.dll
+C:\Users\proro\source\repos\spectr_bass\spectr_bass\bin\Debug\spectr_bass.exe.config
+C:\Users\proro\source\repos\spectr_bass\spectr_bass\bin\Debug\spectr_bass.exe
+C:\Users\proro\source\repos\spectr_bass\spectr_bass\bin\Debug\spectr_bass.pdb
+C:\Users\proro\source\repos\spectr_bass\spectr_bass\bin\Debug\Bass.Net.dll
+C:\Users\proro\source\repos\spectr_bass\spectr_bass\obj\Debug\spectr_bass.csproj.AssemblyReference.cache
+C:\Users\proro\source\repos\spectr_bass\spectr_bass\obj\Debug\spectr_bass.Form1.resources
+C:\Users\proro\source\repos\spectr_bass\spectr_bass\obj\Debug\spectr_bass.Properties.Resources.resources
+C:\Users\proro\source\repos\spectr_bass\spectr_bass\obj\Debug\spectr_bass.csproj.GenerateResource.cache
+C:\Users\proro\source\repos\spectr_bass\spectr_bass\obj\Debug\spectr_bass.csproj.CoreCompileInputs.cache
+C:\Users\proro\source\repos\spectr_bass\spectr_bass\obj\Debug\spectr_bass.exe
+C:\Users\proro\source\repos\spectr_bass\spectr_bass\obj\Debug\spectr_bass.pdb
+C:\Users\proro\source\repos\spectr_bass\spectr_bass\bin\Debug\Bass.Net.xml
+E:\malashin\music\spectr_bass\spectr_bass\bin\Debug\x86\bassasio.dll
+E:\malashin\music\spectr_bass\spectr_bass\bin\Debug\x64\bassasio.dll
+E:\malashin\music\spectr_bass\spectr_bass\bin\Debug\spectr_bass.exe.config
+E:\malashin\music\spectr_bass\spectr_bass\bin\Debug\spectr_bass.exe
+E:\malashin\music\spectr_bass\spectr_bass\bin\Debug\spectr_bass.pdb
+E:\malashin\music\spectr_bass\spectr_bass\bin\Debug\Bass.Net.dll
+E:\malashin\music\spectr_bass\spectr_bass\bin\Debug\Bass.Net.xml
+E:\malashin\music\spectr_bass\spectr_bass\obj\Debug\spectr_bass.csproj.AssemblyReference.cache
+E:\malashin\music\spectr_bass\spectr_bass\obj\Debug\spectr_bass.Form1.resources
+E:\malashin\music\spectr_bass\spectr_bass\obj\Debug\spectr_bass.Properties.Resources.resources
+E:\malashin\music\spectr_bass\spectr_bass\obj\Debug\spectr_bass.csproj.GenerateResource.cache
+E:\malashin\music\spectr_bass\spectr_bass\obj\Debug\spectr_bass.csproj.CoreCompileInputs.cache
+E:\malashin\music\spectr_bass\spectr_bass\obj\Debug\spectr_bass.exe
+E:\malashin\music\spectr_bass\spectr_bass\obj\Debug\spectr_bass.pdb
+C:\Users\mikle\source\repos\spectr_bass\spectr_bass\bin\Debug\x86\bassasio.dll
+C:\Users\mikle\source\repos\spectr_bass\spectr_bass\bin\Debug\x64\bassasio.dll
+C:\Users\mikle\source\repos\spectr_bass\spectr_bass\bin\Debug\spectr_bass.exe.config
+C:\Users\mikle\source\repos\spectr_bass\spectr_bass\bin\Debug\spectr_bass.exe
+C:\Users\mikle\source\repos\spectr_bass\spectr_bass\bin\Debug\spectr_bass.pdb
+C:\Users\mikle\source\repos\spectr_bass\spectr_bass\bin\Debug\Bass.Net.dll
+C:\Users\mikle\source\repos\spectr_bass\spectr_bass\bin\Debug\Bass.Net.xml
+C:\Users\mikle\source\repos\spectr_bass\spectr_bass\obj\Debug\spectr_bass.csproj.AssemblyReference.cache
+C:\Users\mikle\source\repos\spectr_bass\spectr_bass\obj\Debug\spectr_bass.Form1.resources
+C:\Users\mikle\source\repos\spectr_bass\spectr_bass\obj\Debug\spectr_bass.Properties.Resources.resources
+C:\Users\mikle\source\repos\spectr_bass\spectr_bass\obj\Debug\spectr_bass.csproj.GenerateResource.cache
+C:\Users\mikle\source\repos\spectr_bass\spectr_bass\obj\Debug\spectr_bass.csproj.CoreCompileInputs.cache
+C:\Users\mikle\source\repos\spectr_bass\spectr_bass\obj\Debug\spectr_bass.csproj.CopyComplete
+C:\Users\mikle\source\repos\spectr_bass\spectr_bass\obj\Debug\spectr_bass.exe
+C:\Users\mikle\source\repos\spectr_bass\spectr_bass\obj\Debug\spectr_bass.pdb
+C:\Users\proro\OneDrive\Рабочий стол\spectr_bass\spectr_bass\bin\Debug\x86\bassasio.dll
+C:\Users\proro\OneDrive\Рабочий стол\spectr_bass\spectr_bass\bin\Debug\x64\bassasio.dll
+C:\Users\proro\OneDrive\Рабочий стол\spectr_bass\spectr_bass\bin\Debug\spectr_bass.exe.config
+C:\Users\proro\OneDrive\Рабочий стол\spectr_bass\spectr_bass\bin\Debug\spectr_bass.exe
+C:\Users\proro\OneDrive\Рабочий стол\spectr_bass\spectr_bass\bin\Debug\spectr_bass.pdb
+C:\Users\proro\OneDrive\Рабочий стол\spectr_bass\spectr_bass\bin\Debug\Bass.Net.dll
+C:\Users\proro\OneDrive\Рабочий стол\spectr_bass\spectr_bass\bin\Debug\Bass.Net.xml
+C:\Users\proro\OneDrive\Рабочий стол\spectr_bass\spectr_bass\obj\Debug\spectr_bass.csproj.AssemblyReference.cache
+C:\Users\proro\OneDrive\Рабочий стол\spectr_bass\spectr_bass\obj\Debug\spectr_bass.Form1.resources
+C:\Users\proro\OneDrive\Рабочий стол\spectr_bass\spectr_bass\obj\Debug\spectr_bass.Properties.Resources.resources
+C:\Users\proro\OneDrive\Рабочий стол\spectr_bass\spectr_bass\obj\Debug\spectr_bass.csproj.GenerateResource.cache
+C:\Users\proro\OneDrive\Рабочий стол\spectr_bass\spectr_bass\obj\Debug\spectr_bass.csproj.CoreCompileInputs.cache
+C:\Users\proro\OneDrive\Рабочий стол\spectr_bass\spectr_bass\obj\Debug\spectr_bass.exe
+C:\Users\proro\OneDrive\Рабочий стол\spectr_bass\spectr_bass\obj\Debug\spectr_bass.pdb
